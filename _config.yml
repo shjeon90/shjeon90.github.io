@@ -1,3 +1,4 @@
-title: SH Jeon
-repository: "https://github.com/horo90"
 theme: jekyll-theme-hacker
+title: SH Jeon
+github:
+  repository_url: https://github.com/horo90
