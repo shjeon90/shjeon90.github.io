@@ -18,5 +18,5 @@
 - 데이터 마이닝 기반 웹 사용자 행위 분석을 통한 이상징후 탐지 시스템(2016)
 
 ## Papers
-- N. Jeon, S. Jeon, and J. Moon, "A New Password Cracking Model with Generative Adversarial Networks", World Conference on Information Security Applications(WISA), 2019(Best paper).
+- S. Nam, S. Jeon, and J. Moon, "A New Password Cracking Model with Generative Adversarial Networks", World Conference on Information Security Applications(WISA), 2019(Best paper).
 - S. Jeon and J. Moon, "A Deep Neural Network Model Based on a Mutation Operator", Korea Information Processing Society, 2017.
