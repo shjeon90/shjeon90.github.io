@@ -1,11 +1,13 @@
 ## Profile
-- Name: Seungho Jeon
+- Name: Seungho Jeon(Ph. D. Student)
 - Lab: [System and Network Security Lab](http://kusystemlab.co.kr/). at Korea university
 - Resaerch area: Automatic bug finding, Vulnerability exploitation, Deep learning
+- email: ohgnu90@korea.ac.kr
+- address: Graduate School of Security, Korea university, 145 anam-ro, Sungbuk-gu, Seoul, Rep. of Korea
 
 ## Projects
 - 클라우드 기반 공통데이터모델 보안관리 및 운영네트워크 개발(2019)
-- 다기관 CDM 분산연구방을 위한 안전한 인증 및 데이터 분배 체계 연구(2019
+- 다기관 CDM 분산연구방을 위한 안전한 인증 및 데이터 분배 체계 연구(2019)
 - PC 메인보드 펌웨어 보호 메커니즘 분석 연구(2019)
 - 오픈소스 기반 드론 취약점 분석 및 검증방안 연구(2019)
 - 상용드론 대상 시스템 정보해석 방안 연구(2018)
