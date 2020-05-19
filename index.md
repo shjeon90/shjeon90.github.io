@@ -3,7 +3,7 @@
 - Lab: [System and Network Security Lab](http://kusystemlab.co.kr/). at Korea university
 - Resaerch area: Automatic bug finding, Vulnerability exploitation, Deep learning
 - Email: ohgnu90@korea.ac.kr
-- Address: Graduate School of Security, Korea university, 145 anam-ro, Sungbuk-gu, Seoul, Rep. of Korea
+- Address: Graduate School of Information Security, Department of Information Security, Korea university, 145 anam-ro, Sungbuk-gu, Seoul, Rep. of Korea
 
 ## Projects
 - 소형 임베디드 기기 접속 취약점 분석 연구, 국가보안기술연구소, 2020
