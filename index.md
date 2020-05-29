@@ -19,6 +19,6 @@
 - 데이터 마이닝 기반 웹 사용자 행위 분석을 통한 이상징후 탐지 시스템, 중소기업청, 2016
 
 ## Papers
-- S. Jeon and J. Moon, "Malware-Detection Method with a Convolutional Recurrent Neural Network Using Opcode Sequences", Information Sciences, vol. 535, p1-15, 2020 [doi](https://doi.org/10.1016/j.ins.2020.05.026).
-- S. Nam, S. Jeon, and J. Moon, "A New Password Cracking Model with Generative Adversarial Networks", World Conference on Information Security Applications(WISA), 2019(Best paper).
+- S. Jeon and J. Moon, "Malware-Detection Method with a Convolutional Recurrent Neural Network Using Opcode Sequences", Information Sciences, vol. 535, pp 1-15, 2020 [doi](https://doi.org/10.1016/j.ins.2020.05.026).
+- S. Nam, S. Jeon, and J. Moon, "A New Password Cracking Model with Generative Adversarial Networks", World Conference on Information Security Applications, pp 247-258, 2019(Best paper) [doi](https://doi.org/10.1007/978-3-030-39303-8_19).
 - S. Jeon and J. Moon, "A Deep Neural Network Model Based on a Mutation Operator", Korea Information Processing Society, 2017.
