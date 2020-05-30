@@ -7,7 +7,10 @@
 
 ## Greetings
 ```
-Hi, I'm Seungho Jeon, Ph.D. Student in the Department of Information Security at Korea University. My primary interest is the program testing and verification. Thank you for visiting my profile. Please feel free to contact me regarding collaboration. I'll always welcome you. Thank you again!
+Hi, I'm Seungho Jeon, Ph.D. Student in the Department of Information Security at Korea University. 
+My primary interest is the program testing and verification. 
+Thank you for visiting my profile. Please feel free to contact me regarding collaboration. 
+I'll always welcome you. Thank you again!
 ```
 
 ## Projects
