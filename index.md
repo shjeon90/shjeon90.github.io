@@ -5,6 +5,11 @@
 - Email: ohgnu90@korea.ac.kr
 - Address: Graduate School of Information Security, Department of Information Security, Korea university, 145 anam-ro, Sungbuk-gu, Seoul, Rep. of Korea
 
+## Greetings
+```
+Hi, I'm Seungho Jeon, Ph.D. Student in the Department of Information Security at Korea University. My primary interest is the program testing and verification. Thank you for visiting my profile. Please feel free to contact me regarding collaboration. I'll always welcome you. Thank you again!
+```
+
 ## Projects
 - 소형 임베디드 기기 접속 취약점 분석 연구, 국가보안기술연구소, 2020
 - 클라우드 기반 공통데이터모델 보안관리 및 운영네트워크 개발, 보건산업진흥원, 2019-2021
