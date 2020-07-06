@@ -28,6 +28,7 @@ I'll always welcome you. Thank you again!
 
 ## Papers
 - S. Jeon and J. Moon, "Malware-Detection Method with a Convolutional Recurrent Neural Network Using Opcode Sequences," Information Sciences, vol. 535, pp 1-15, 2020 [doi](https://doi.org/10.1016/j.ins.2020.05.026).
+- S. Nam, S. Jeon and J. Moon, "REDPACK: Relativistic Discriminator for Password Candidates Effective PACK," In proceddings the 15th Asia Pacific International Conference on Information Science and Technology, 2020.
 - S. Nam, S. Jeon, H. Kim and J. Moon, "Recurrent GANs Password Cracker For IoT Password Security Enhancement," Sensors, vol. 20, iss. 11, pp 247-258, 2020 [doi](https://doi.org/10.3390/s20113106).
 - S. Nam, S. Jeon, and J. Moon, "A New Password Cracking Model with Generative Adversarial Networks," World Conference on Information Security Applications, pp 247-258, 2019(Best paper) [doi](https://doi.org/10.1007/978-3-030-39303-8_19).
 - S. Jeon and J. Moon, "A Deep Neural Network Model Based on a Mutation Operator," Korea Information Processing Society, 2017.
