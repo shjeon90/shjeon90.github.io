@@ -27,7 +27,7 @@ I'll always welcome you. Thank you again!
 - 데이터 마이닝 기반 웹 사용자 행위 분석을 통한 이상징후 탐지 시스템, 중소기업청, 2016
 
 ## Papers
-- S. Nam, S. Jeon and J. Moon, "Generating optimized guessing candidates toward better password cracking from multi-dictionaries using relativistic GAN," Applied Sciences, Special issues (AI for cybersecurity), 2020 (recently accepted). 
+- S. Nam, S. Jeon and J. Moon, "Generating optimized guessing candidates toward better password cracking from multi-dictionaries using relativistic GAN," Applied Sciences vol. 10, iss. 20, 2020 [doi](https://doi.org/10.3390/app10207306). 
 - S. Jeon and J. Moon, "Malware-Detection Method with a Convolutional Recurrent Neural Network Using Opcode Sequences," Information Sciences, vol. 535, pp 1-15, 2020 [doi](https://doi.org/10.1016/j.ins.2020.05.026).
 - S. Nam, S. Jeon and J. Moon, "REDPACK: Relativistic Discriminator for Password Candidates Effective PACK," In proceddings the 15th Asia Pacific International Conference on Information Science and Technology, 2020.
 - S. Nam, S. Jeon, H. Kim and J. Moon, "Recurrent GANs Password Cracker For IoT Password Security Enhancement," Sensors, vol. 20, iss. 11, pp 247-258, 2020 [doi](https://doi.org/10.3390/s20113106).
