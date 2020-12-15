@@ -34,3 +34,6 @@ I'll always welcome you. Thank you again!
 - S. Nam, S. Jeon, H. Kim and J. Moon, "Recurrent GANs Password Cracker For IoT Password Security Enhancement," Sensors, vol. 20, iss. 11, pp 247-258, 2020 [doi](https://doi.org/10.3390/s20113106).
 - S. Nam, S. Jeon, and J. Moon, "A New Password Cracking Model with Generative Adversarial Networks," World Conference on Information Security Applications, pp 247-258, 2019(Best paper) [doi](https://doi.org/10.1007/978-3-030-39303-8_19).
 - S. Jeon and J. Moon, "A Deep Neural Network Model Based on a Mutation Operator," Korea Information Processing Society, 2017.
+
+
+I'm organizing [the research papers](./papers.html), which I read and have interested in.
