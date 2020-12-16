@@ -10,6 +10,8 @@ Keep updating...
 - M. Chen et al., “Generative Pretraining from Pixels,” in ICML 2020, 2020.
 - J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in NAACL HLT 2019 - 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies - Proceedings of the Conference, 2019.
 - A. Vaswani et al., “Attention is all you need,” in Advances in Neural Information Processing Systems, 2017.
+- T. B. Brown et al., “Language models are few-shot learners,” arXiv. 2020.
+- A. Radrof and J. Wu, “language model and unsupervised multitask learning,” OpenAI, 2018.
 - A. Radford, K. Narasimhan, T. Salimans, and I. Sutskever, “Improving Language Understanding by Generative Pre-Training,” OpenAI, 2018.
 - D. P. Kingma and M. Welling, “Auto-encoding variational bayes,” in 2nd International Conference on Learning Representations, ICLR 2014 - Conference Track Proceedings, 2014.
 - I. J. Goodfellow et al., “Generative adversarial nets,” in Advances in Neural Information Processing Systems, 2014, doi: 10.3156/jsoft.29.5_177_2.
