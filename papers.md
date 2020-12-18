@@ -7,6 +7,7 @@ Keep updating...
 ```
 
 ## Remarkable research papers on Deep Learning
+- K. He, H. Fan, Y. Wu, S. Xie, and R. Girshick, “Momentum Contrast for Unsupervised Visual Representation Learning,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2020, doi: 10.1109/CVPR42600.2020.00975.
 - M. Chen et al., “Generative Pretraining from Pixels,” in ICML 2020, 2020.
 - J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in NAACL HLT 2019 - 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies - Proceedings of the Conference, 2019.
 - A. Vaswani et al., “Attention is all you need,” in Advances in Neural Information Processing Systems, 2017.
