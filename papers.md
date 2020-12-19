@@ -22,6 +22,8 @@ Keep updating...
 - Y. Huang, “Playing Atari with Deep Reinforcement Learning,” Deep Reinf. Learn. Fundam. Res. Appl., 2020.
 - K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2016, doi: 10.1109/CVPR.2016.90.
 - Y. Gal and Z. Ghahramani, “Dropout as a Bayesian approximation: Representing model uncertainty in deep learning,” in 33rd International Conference on Machine Learning, ICML 2016, 2016.
+- R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh, and D. Batra, “Grad-cam: Why did you say that? visual explanations from deep networks via gradient-based localization,” Rev. do Hosp. das Cl??nicas, 2016.
+- B. Zhou, A. Khosla, A. Lapedriza, A. Oliva, and A. Torralba, “Learning Deep Features for Discriminative Localization,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2016, doi: 10.1109/CVPR.2016.319.
 - N. Srivastava, G. Hinton, A. Krizhevsky, I. Sutskever, and R. Salakhutdinov, “Dropout: A simple way to prevent neural networks from overfitting,” J. Mach. Learn. Res., 2014.
 - C. Szegedy et al., “Going deeper with convolutions,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2015, doi: 10.1109/CVPR.2015.7298594.
 - K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” in 3rd International Conference on Learning Representations, ICLR 2015 - Conference Track Proceedings, 2015.
