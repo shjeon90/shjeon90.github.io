@@ -10,6 +10,7 @@ Keep updating...
 - K. He, H. Fan, Y. Wu, S. Xie, and R. Girshick, “Momentum Contrast for Unsupervised Visual Representation Learning,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2020, doi: 10.1109/CVPR42600.2020.00975.
 - M. Chen et al., “Generative Pretraining from Pixels,” in ICML 2020, 2020.
 - J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in NAACL HLT 2019 - 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies - Proceedings of the Conference, 2019.
+- S. Woo, J. Park, J. Y. Lee, and I. S. Kweon, “CBAM: Convolutional block attention module,” in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, doi: 10.1007/978-3-030-01234-2_1.
 - A. Vaswani et al., “Attention is all you need,” in Advances in Neural Information Processing Systems, 2017.
 - T. B. Brown et al., “Language models are few-shot learners,” arXiv. 2020.
 - A. Radrof and J. Wu, “language model and unsupervised multitask learning,” OpenAI, 2018.
