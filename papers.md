@@ -62,3 +62,4 @@ Keep updating...
 - S. Rawat, V. Jain, A. Kumar, L. Cojocar, C. Giuffrida, and H. Bos, “VUzzer: Application-aware Evolutionary Fuzzing,” 2017, doi: 10.14722/ndss.2017.23404.
 - S. Kim et al., “Testing intermediate representations for binary analysis,” in ASE 2017 - Proceedings of the 32nd IEEE/ACM International Conference on Automated Software Engineering, 2017, doi: 10.1109/ASE.2017.8115648.
 - N. Stephens et al., “Driller: Augmenting Fuzzing Through Selective Symbolic Execution,” 2017, doi: 10.14722/ndss.2016.23368.
+- V. Kuznetsov, L. Szekeres, M. Payer, G. Candea, R. Sekar, and D. Song, “Code-pointer integrity,” in Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2014, 2014, doi: 10.1145/3129743.3129748.
