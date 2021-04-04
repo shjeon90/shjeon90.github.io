@@ -7,6 +7,7 @@ Keep updating...
 ```
 
 ## Remarkable research papers on Deep Learning
+- V. Mnih et al., “Asynchronous methods for deep reinforcement learning,” in 33rd International Conference on Machine Learning, ICML 2016, 2016, vol. 4.
 - K. He, H. Fan, Y. Wu, S. Xie, and R. Girshick, “Momentum Contrast for Unsupervised Visual Representation Learning,” in Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2020, doi: 10.1109/CVPR42600.2020.00975.
 - M. Chen et al., “Generative Pretraining from Pixels,” in ICML 2020, 2020.
 - J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, “BERT: Pre-training of deep bidirectional transformers for language understanding,” in NAACL HLT 2019 - 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies - Proceedings of the Conference, 2019.
@@ -44,6 +45,8 @@ Keep updating...
 
 
 ## Remarkable research papers on Security
+- S. Poeplau and A. Francillon, “Symbolic execution with SYMCC: Don’t interpret, compile!,” in Proceedings of the 29th USENIX Security Symposium, 2020.
+- I. Yun, S. Lee, M. Xu, Y. Jang, and T. Kim, “QSYM: A practical concolic execution engine tailored for hybrid fuzzing,” in Proceedings of the 27th USENIX Security Symposium, 2018.
 - P. Godefroid, N. Klarlund, and K. Sen, “DART: Directed Automated Random Testing,” in Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2005, doi: 10.1007/978-3-642-19237-1_4.
 - D. Brumley, I. Jager, T. Avgerinos, and E. J. Schwartz, “BAP: A binary analysis platform,” in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2011, doi: 10.1007/978-3-642-22110-1_37.
 - C. Lyu et al., “MOPT: Optimized mutation scheduling for fuzzers,” in Proceedings of the 28th USENIX Security Symposium, 2019.
