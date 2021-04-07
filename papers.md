@@ -45,6 +45,7 @@ Keep updating...
 
 
 ## Remarkable research papers on Security
+- S. Poeplau, “SymQEMU : Compilation-based symbolic execution for binaries,” Ndss, no. February, 2021.
 - S. Poeplau and A. Francillon, “Symbolic execution with SYMCC: Don’t interpret, compile!,” in Proceedings of the 29th USENIX Security Symposium, 2020.
 - I. Yun, S. Lee, M. Xu, Y. Jang, and T. Kim, “QSYM: A practical concolic execution engine tailored for hybrid fuzzing,” in Proceedings of the 27th USENIX Security Symposium, 2018.
 - P. Godefroid, N. Klarlund, and K. Sen, “DART: Directed Automated Random Testing,” in Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), 2005, doi: 10.1007/978-3-642-19237-1_4.
